@@ -1,7 +1,7 @@
 name: jchriscook
 favicon: null
-layout_spectrum: 0.31490468676202
-typography_spectrum: 0.363510437309742
+layout_spectrum: 0.95285
+typography_spectrum: 0.27368
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.508444776525721
-  lightness: 0.7909518524538726
+  lightness: 0.375
   saturation: 0.9761519955936819
-  rhythmicContrast: 0.4188420050777495
+  rhythmicContrast: 0.75
 purpose: []
