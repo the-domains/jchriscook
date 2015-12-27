@@ -1,7 +1,7 @@
 name: jchriscook
 favicon: null
-layout_spectrum: 0.95285
-typography_spectrum: 0.27368
+layout_spectrum: 0.91068
+typography_spectrum: 0.32684
 title: The Creative Laboratory
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.508444776525721
-  lightness: 0.375
-  saturation: 0.9761519955936819
-  rhythmicContrast: 0.75
+    - '#a5b8cc'
+    - '#080609'
+    - '#2a3f5e'
+    - '#6e7f95'
+    - '#49100b'
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
